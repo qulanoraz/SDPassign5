@@ -8,6 +8,6 @@ public class SecurityCamera implements Device {
 
     @Override
     public void off() {
-        System.out.println("Thermostat is now OFF");
+        System.out.println("Security cameras are now OFF");
     }
 }
